@@ -11,21 +11,21 @@ You can learn more about Professor O'Brien-Udry on her <a href = "http://cobrien
 
 ```mermaid
 graph TD;
-    {PI}-->{Lab manager};
-{PI}-->{Graduate student};
-    {Lab manager}-->{Project 1 lead};
-    {Lab manager}-->{Project 2 lead};
-    {Lab manager}-->{Project 3 lead};
-{Project 1 lead}-->{Project 1 member 1};
-{Project 2 lead}-->{Project 2 member 1};
-{Project 3 lead}-->{Project 3 member 1};
-{Project 1 lead}-->{Project 1 member 2};
-{Project 2 lead}-->{Project 2 member 2};
-{Project 3 lead}-->{Project 3 member 2};
-{Project 1 lead}-->{Project 1 member 3};
-{Project 2 lead}-->{Project 2 member 3};
-{Project 3 lead}-->{Project 3 member 3};
-{Graduate student}-->{Undergraduate collaborator};
+    A{PI}-->B{Lab manager};
+A{PI}-->C{Graduate student};
+    B{Lab manager}-->D{Project 1 lead};
+    B{Lab manager}-->E{Project 2 lead};
+    B{Lab manager}-->F{Project 3 lead};
+D{Project 1 lead}-->G{Project 1 member 1};
+E{Project 2 lead}-->H{Project 2 member 1};
+F{Project 3 lead}-->I{Project 3 member 1};
+D{Project 1 lead}-->J{Project 1 member 2};
+E{Project 2 lead}-->K{Project 2 member 2};
+F{Project 3 lead}-->L{Project 3 member 2};
+D{Project 1 lead}-->M{Project 1 member 3};
+E{Project 2 lead}-->N{Project 2 member 3};
+F{Project 3 lead}-->O{Project 3 member 3};
+C{Graduate student}-->P{Undergraduate collaborator};
 
 ```
 
