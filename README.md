@@ -29,6 +29,31 @@ C[Graduate student]-->P[Undergraduate collaborator];
 
 Our 2025/6 lab manager is  <a href = "https://www.linkedin.com/in/ping-meunprasittiveg">Ping Meunprasittiveg</a>. 
 
+#### Current Lab members
+
+Sophia Teresa Alvarez
+Ani Apresyan
+Ishita Chaurasia
+Ben Conway
+Grace Farrar
+Kevin Jaime-Villagomez
+Ananya Kavatekar
+Ping Meunprasittiveg
+Eshal Mirza
+Nitya Nair
+Enrique Padilla
+Sankirtana Ravichandran
+Ishani Sahu
+Kayla Sanchez
+Dev Shah
+Shlok Shah
+Dexter Skobel
+Martha Sulzen
+Hannah Sundararajan
+Steven Tobia
+Connor Waddell
+Kris Wu
+
 ## Ongoing projects
 
 ### Observing aid withdrawal: a dataset of aid withdrawal events from 1955 to 2022
