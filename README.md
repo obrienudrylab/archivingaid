@@ -2,6 +2,10 @@
 
 ## Overview
 
+```mermaid
+  info
+```
+
 The O'Brien-Udry Lab is a group of undergraduates conducting research with Professor Cleo O'Brien-Udry.                                                                                                             
 
 You can learn more about Professor O'Brien-Udry on her <a href = "http://cobrienudry.github.io/">website<\a>. 
