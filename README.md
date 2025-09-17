@@ -33,6 +33,7 @@ Our 2025/6 lab manager is  <a href = "https://www.linkedin.com/in/ping-meunprasi
 
 Sophia Teresa Alvarez\
 Ani Apresyan\
+Sia Bhutani\
 Ishita Chaurasia\
 Ben Conway\
 Grace Farrar\
