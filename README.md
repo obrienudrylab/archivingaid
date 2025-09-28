@@ -31,7 +31,6 @@ Our 2025/6 lab manager is  <a href = "https://www.linkedin.com/in/ping-meunprasi
 
 #### Current Lab members
 
-Sophia Teresa Alvarez\
 Ani Apresyan\
 Sia Bhutani\
 Ishita Chaurasia\
@@ -54,6 +53,15 @@ Hannah Sundararajan\
 Steven Tobia\
 Connor Waddell\
 Kris Wu
+
+#### Alumni
+
+Sophia Teresa Alvarez\
+Aleeha Javed Chughtai \
+Wencheng Huangfu\
+Jonathan Kroeze\
+Vedika Amit Shah
+
 
 ## Ongoing projects
 
